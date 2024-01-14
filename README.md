@@ -1,7 +1,7 @@
 pkg install python3
 then use this command! 
-then execute this < 3 
-(python3...py)
+then execute this tool by
+(python3...py) ! You aren't a noob bro..
 
 Discover a comprehensive collection of powerful tools for various purposes in this tool.
 From information gathering and IP tracking to exploit tools, 
